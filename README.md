@@ -8,4 +8,4 @@ The cattle's lactation cycle affects their weight and overall health, with four 
 
 Analyzing these periods cattle-wise is crucial, as they have varying impacts on the cattle's weight and health based on their nutrient requirements. State-wise analysis is equally important since it provides a trend in cattle's expected milk amount in different climates.
 
-This project aims to address the above-mentioned problems by presenting a clear representation through an efficient Regression model,
+This project aims to address the above-mentioned problems by presenting a clear representation through an efficient Regression model.
